@@ -1106,3 +1106,9 @@ section {
     padding-right: 20px 15px;
   }
 }
+
+.about-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
